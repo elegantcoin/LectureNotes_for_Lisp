@@ -1,6 +1,17 @@
 # LectureNotes_for_Lisp
 Lecture Notes for Lisp Language (programming paradigm included)
 
+<p align="center">
+    <a href="https://github.com/elegantcoin/LectureNotes_for_Lisp"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.7-FF1493.svg"></a>
+    <a href="https://github.com/elegantcoin/LectureNotes_for_Lisp"><img src="https://img.shields.io/badge/platform-Windows%7CLinux%7CmacOS-660066.svg"></a>
+    <a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg"></a>
+    <a href="https://github.com/elegantcoin/LectureNotes_for_Lisp/stargazers"><img src="https://img.shields.io/github/stars/elegantcoin/LectureNotes_for_Lisp.svg?logo=github"></a>
+    <a href="https://github.com/elegantcoin/LectureNotes_for_Lisp/network/members"><img src="https://img.shields.io/github/forks/elegantcoin/LectureNotes_for_Lisp.svg?color=blue&logo=github"></a>
+    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+</p>
+<br />
+
 ## :fire: 1.冒号课堂：编程范式与 OOP 思想
 - 09年主流语言：Java、C、C++、VB、PHP、C#、Python、Perl、Delphi、JavaScript、Ruby 和D
 - 19年github给出语言：C、C#、C++、CSS、HTML、Java、JavaScript、Julia、Jupyter Notebook、Makefile、Objective-C、Processing、Python、Rich Text Format、Shell、TeX、XSLT
